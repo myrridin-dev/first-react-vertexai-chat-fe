@@ -1,24 +1,20 @@
-## AI Code Buddy
+## React Gemini Chatbot
 
-**What it does:**
+**Credits:**
 
-AI Code Buddy is a React application under development that aims to be your helpful coding companion. It currently offers basic functionalities to enhance your development experience.
-
-**Features:**
-
-- **Syntax Highlighting:** Improves code readability with syntax highlighting provided by `prismjs`.
-- **Markdown Rendering:** Enables the display of formatted text or instructions using `react-markdown`.
+Inspired by [this article](https://medium.com/@sumudithalanz/building-a-chatbot-with-react-express-and-googles-gemini-ai-858d9d8d3556)
 
 **Dependencies:**
 
-- @google/generative-ai: "^0.2.1" (Google generative AI service)
-- concurrently: "^8.2.2" (Runs multiple commands concurrently)
-- cors: "^2.8.5" (Enables Cross-Origin Resource Sharing)
-- dotenv: "^16.4.5" (Loads environment variables from a .env file)
-- express: "^4.18.3" (Web framework for Node.js)
-- nodemon: "^3.1.0" (Monitors changes in Node.js files and restarts the server)
-- prismjs: "^1.29.0" (Provides syntax highlighting for code blocks)
-- react-markdown: "^9.0.1" (Renders Markdown content in React applications)
+- @google/generative-ai: (Google generative AI service)
+- concurrently: (Runs multiple commands concurrently)
+- cors: (Enables Cross-Origin Resource Sharing)
+- dotenv: (Loads environment variables from a .env file)
+- express: (Lightweight web framework for Node.js)
+- nodemon: (Monitors changes in Node.js files and restarts the server)
+- prismjs: (Provides syntax highlighting for code blocks)
+- react-markdown: (Renders Markdown content in React applications)
+- react-loader-spinner: (Adds a spinner)
 
 **Installation:**
 
