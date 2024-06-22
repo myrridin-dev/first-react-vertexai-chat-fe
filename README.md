@@ -50,5 +50,3 @@ Inspired by [this article](https://medium.com/@sumudithalanz/building-a-chatbot-
 - `npm run build`: Builds the production-ready version of the frontend.
 - `npm run test`: Runs tests for the application.
 - `npm run eject`: Ejects the React app for more customization (use with caution).
-
-**Please note:** This documentation reflects the current state of the codebase and might not accurately represent future features or capabilities.
